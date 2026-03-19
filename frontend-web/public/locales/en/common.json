@@ -1,0 +1,58 @@
+{
+    "common": {
+        "welcome": "Welcome",
+        "dashboard": "Dashboard",
+        "stores": "Stores",
+        "products": "Products",
+        "orders": "Orders",
+        "settings": "Settings",
+        "logout": "Logout",
+        "login": "Login"
+    },
+    "admin": {
+        "dashboard": "Dashboard",
+        "users": "Users",
+        "stores": "Stores",
+        "orders": "Orders",
+        "categories": "Categories",
+        "commissions": "Commissions",
+        "settings": "Settings",
+        "logout": "Logout",
+        "language": "Language"
+    },
+    "seller": {
+        "addProduct": "Add Product",
+        "myStores": "My Stores",
+        "earnings": "Earnings",
+        "dashboard": "Dashboard",
+        "products": "Products",
+        "orders": "Orders",
+        "logout": "Logout",
+        "addStore": "Add Store",
+        "store": "Store",
+        "product": "Product",
+        "order": "Order",
+        "active": "Active",
+        "inactive": "Inactive",
+        "manage": "Manage",
+        "totalProducts": "Total Products",
+        "totalOrders": "Total Orders",
+        "hello": "Hello",
+        "manageDescription": "Manage your stores and products",
+        "noStores": "No stores found",
+        "startStore": "Start by creating your first store",
+        "rating": "Rating"
+    },
+    "customer": {
+        "discoverWorld": "Discover Your World",
+        "shopBestStores": "Shop from the best stores in Algeria",
+        "searchPlaceholder": "Search for stores or products...",
+        "all": "All",
+        "nearbyStores": "Stores Nearby",
+        "noStoresFound": "No stores found",
+        "tryOtherCategory": "Try another category or search for a specific store",
+        "viewStore": "View Store",
+        "footerText": "The #1 E-commerce Platform in Algeria",
+        "rightsReserved": "All Rights Reserved © 2024 My World"
+    }
+}

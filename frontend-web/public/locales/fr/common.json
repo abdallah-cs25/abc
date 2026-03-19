@@ -1,0 +1,58 @@
+{
+    "common": {
+        "welcome": "Bienvenue",
+        "dashboard": "Tableau de bord",
+        "stores": "Magasins",
+        "products": "Produits",
+        "orders": "Commandes",
+        "settings": "Paramètres",
+        "logout": "Déconnexion",
+        "login": "Connexion"
+    },
+    "admin": {
+        "dashboard": "Tableau de bord",
+        "users": "Utilisateurs",
+        "stores": "Magasins",
+        "orders": "Commandes",
+        "categories": "Catégories",
+        "commissions": "Commissions",
+        "settings": "Paramètres",
+        "logout": "Déconnexion",
+        "language": "Langue"
+    },
+    "seller": {
+        "addProduct": "Ajouter Produit",
+        "myStores": "Mes Magasins",
+        "earnings": "Revenus",
+        "dashboard": "Tableau de bord",
+        "products": "Produits",
+        "orders": "Commandes",
+        "logout": "Déconnexion",
+        "addStore": "Ajouter Magasin",
+        "store": "Magasin",
+        "product": "Produit",
+        "order": "Commande",
+        "active": "Actif",
+        "inactive": "Inactif",
+        "manage": "Gérer",
+        "totalProducts": "Total Produits",
+        "totalOrders": "Total Commandes",
+        "hello": "Bonjour",
+        "manageDescription": "Gérez vos magasins et produits",
+        "noStores": "Aucun magasin trouvé",
+        "startStore": "Commencez par créer votre premier magasin",
+        "rating": "Évaluation"
+    },
+    "customer": {
+        "discoverWorld": "Découvrez Votre Monde",
+        "shopBestStores": "Achetez dans les meilleurs magasins en Algérie",
+        "searchPlaceholder": "Rechercher des magasins ou produits...",
+        "all": "Tous",
+        "nearbyStores": "Magasins à proximité",
+        "noStoresFound": "Aucun magasin trouvé",
+        "tryOtherCategory": "Essayez une autre catégorie ou recherchez un magasin spécifique",
+        "viewStore": "Voir le magasin",
+        "footerText": "La première plateforme e-commerce en Algérie",
+        "rightsReserved": "Tous droits réservés © 2024 My World"
+    }
+}
